@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html style="background-color: rgb(255, 255, 255); font-size: 17px">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+    />
+    <title>TAS SEKOLAH</title>
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="assets/img/925716.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="assets/img/925716.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="assets/img/925716.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="assets/img/925716.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="assets/img/925716.png"
+    />
+
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Abril+Fatface"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Alfa+Slab+One"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Allerta"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Anton"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Archivo+Black"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Lora"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Montserrat"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="assets/css/styles.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css"
+    />
+    <style type="text/css">
+      html {
+        background-color: #e8e8e8;
+        padding-left: 0px;
+        padding-right: 0px;
+      }
+      @media (min-width: 992px) {
+        html {
+          background-color: #e8e8e8;
+          padding-left: 250px;
+          padding-right: 250px;
+        }
+      }
+      @media (min-width: 1200px) {
+        html {
+          background-color: #e8e8e8;
+          padding-left: 420px;
+          padding-right: 420px;
+        }
+      }
+      .btn.btn-warning.btn-sm.floating {
+        display: block;
+        margin: 0px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 99999;
+        border-radius: 0 !important;
+      }
+    </style>
+
+    <!-- Facebook Pixel Code -->
+    <!-- <script>
+      !(function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = "2.0";
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(
+        window,
+        document,
+        "script",
+        "https://connect.facebook.net/en_US/fbevents.js"
+      );
+      fbq("init", "1646851342794759");
+      fbq("track", "PageView");
+      fbq("track", "ViewContent");
+    </script>
+
+    <noscript
+      ><img
+        height="1"
+        width="1"
+        style="display: none"
+        src="https://www.facebook.com/tr?id=1646851342794759&ev=PageView&noscript=1"
+    /></noscript> -->
+    <!-- End Facebook Pixel Code -->
+  </head>
+
+  <body
+    class="text-center"
+    id="page-top"
+    style="
+      height: 650;
+      color: rgb(0, 0, 0);
+      min-height: 0;
+      font-family: poppins;
+      font-size: 16px;
+      background-color: rgb(255, 255, 255);
+    "
+  >
+    <section
+      class="text-center justify-content-lg-center"
+      style="
+        font-family: Alef, sans-serif;
+        color: rgb(255, 255, 255);
+        background-color: #ef2c92;
+        height: 42px;
+      "
+    >
+      <div
+        class="container text-center d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center justify-content-lg-center justify-content-xl-center"
+        style="padding: 0; font-size: 14px; height: 42px"
+      >
+        <h3
+          class="d-lg-flex justify-content-lg-center"
+          style="
+            font-size: 16px;
+            color: rgb(255, 255, 255);
+            font-family: ABeeZee, sans-serif;
+            margin-bottom: 24px;
+            margin-top: 24px;
+          "
+        >
+          TAS SEKOLAH ANAK
+        </h3>
+      </div>
+    </section>
+    <header
+      class="d-md-flex justify-content-sm-center align-items-md-center masthead"
+      style="
+        padding-top: 0px;
+        padding-bottom: 0px;
+        height: auto;
+        min-height: auto;
+        background-color: #7b7b7b;
+        width: auto;
+      "
+    ></header>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img
+          class="img-fluid"
+          src="assets/img/product1.jpg"
+          style="width: 160px"
+        />
+        <img
+          class="img-fluid"
+          src="assets/img/product2.jpg"
+          style="width: 160px"
+        />
+        <img
+          class="img-fluid"
+          src="assets/img/product3.jpg"
+          style="width: 160px"
+        />
+        <img
+          class="img-fluid"
+          src="assets/img/product4.jpg"
+          style="width: 160px"
+        />
+      </div>
+    </section>
+    <div
+      class="alert alert-danger text-center border rounded-0"
+      role="alert"
+      style="
+        margin-bottom: 0;
+        padding-top: 16px;
+        padding-bottom: 0px;
+        background-color: #ffffff;
+        color: rgb(239, 239, 239);
+        height: 112px;
+        padding-right: 24px;
+      "
+    >
+      <span
+        class="text-center d-flex d-sm-flex d-md-flex d-lg-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center align-items-md-center justify-content-lg-center align-items-lg-center"
+        style="
+          font-size: 20px;
+          color: rgb(28, 25, 25);
+          font-family: Poppins, sans-serif;
+        "
+        ><strong>ORDER SEKARANG?</strong></span
+      ><a
+        class="btn btn-sm to-anc"
+        role="button"
+        href="#to-anc"
+        style="background-color: rgb(239, 44, 146); color: rgb(235, 237, 224)"
+        >HARGA &amp; PROMO DISINI&nbsp;<i class="fa fa-arrow-circle-down"></i
+      ></a>
+      <a
+        class="btn btn-warning btn-sm floating"
+        role="button"
+        href="#to-anc"
+        style="
+          padding-top: 8px;
+          padding-bottom: 8px;
+          background-color: #ffc107;
+          color: rgb(51, 51, 51);
+        "
+        >HARGA &amp; PROMO DISINI&nbsp;<i class="fa fa-hand-o-left"></i
+      ></a>
+    </div>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+      <div
+        class="container-fluid text-center d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center justify-content-lg-center justify-content-xl-center"
+        style="
+          padding: -1px;
+          padding-left: 5px;
+          padding-right: 7px;
+          margin: 0px;
+          background-color: rgb(255, 255, 255);
+          color: rgb(255, 255, 255);
+        "
+      >
+        <p
+          class="text-justify"
+          style="
+            width: auto;
+            height: auto;
+            margin: 14px;
+            color: rgb(33, 31, 31);
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 18px;
+            margin-top: 0px;
+            margin-bottom: -2px;
+          "
+        >
+          Tas Sekolah Anak Spesial Kuromi Series<br /><strong
+            >&nbsp;Teman Sejati Si Kecil di Setiap Petualangan!</strong
+          ><br /><br /><strong>KEUNGGULAN :</strong><br />📌<strong
+            >Desain Menggemaskan</strong
+          >:<br />Karakter Kuromi yang eksklusif dan menarik.<br />Kombinasi
+          warna cerah yang mencuri perhatian.<br />📌<strong
+            >Nyaman Dipakai</strong
+          ><br />Tali bahu empuk dan bisa disesuaikan.<br />Bahan ringan dan
+          tahan lama untuk kenyamanan maksimal.<br />📌<strong
+            >Fungsi Praktis</strong
+          ><br />Ruang penyimpanan luas dengan beberapa kantong.<br />Resleting
+          yang kuat dan mudah digunakan.<br /><br />✅Cocok untuk sekolah
+          ataupun bermain😍<br /><br />Jangan tunggu lagi! Dapatkan
+          <strong>Tas Kuromi Series</strong> sekarang juga dan lihat bagaimana
+          tas ini menjadi sahabat terbaik si kecil dalam setiap aktivitasnya.<br /><br />
+        </p>
+      </div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <section
+      class="text-justify d-lg-flex d-xl-flex justify-content-lg-center"
+      style="
+        background-color: #6c7a54;
+        font-family: Poppins, sans-serif;
+        color: rgb(255, 255, 255);
+        padding-left: -5px;
+      "
+    ></section>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff; margin-top: 0"
+      ></div>
+    </section>
+    <div
+      class="container-fluid text-center d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center justify-content-lg-center justify-content-xl-center"
+      style="
+        height: 42px;
+        background-color: rgb(247, 161, 208);
+        color: rgb(18, 63, 152);
+      "
+    >
+      <h1
+        class="d-lg-flex justify-content-lg-center"
+        style="
+          font-size: 18px;
+          color: rgb(43, 55, 59);
+          font-family: Poppins;
+          margin-top: 8px;
+        "
+      >
+        DETAIL PRODUK
+      </h1>
+    </div>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img
+          class="img-fluid"
+          src="assets/img/kuromi-detail6.jpg"
+          style="padding-top: 0; margin-bottom: 0px; margin-left: 0px"
+        />
+      </div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img
+          class="img-fluid"
+          src="assets/img/kuromi-detail1.jpg"
+          style="padding-top: 0; margin-bottom: 0px; margin-left: 0px"
+        />
+      </div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img
+          class="img-fluid"
+          src="assets/img/kuromi-detail2.jpg"
+          style="padding-top: 0; margin-bottom: 0px; margin-left: 0px"
+        />
+      </div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img
+          class="img-fluid"
+          src="assets/img/kuromi-detail4.jpg"
+          style="padding-top: 0; margin-bottom: 0px; margin-left: 0px"
+        />
+      </div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img
+          class="img-fluid"
+          src="assets/img/kuromi-detail5.jpg"
+          style="padding-top: 0; margin-bottom: 0px; margin-left: 0px"
+        />
+      </div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img
+          class="img-fluid"
+          src="assets/img/kuromi-detail7.jpg"
+          style="padding-top: 0; margin-bottom: 0px; margin-left: 0px"
+        />
+      </div>
+      <div
+        class="container-fluid text-center d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center justify-content-lg-center justify-content-xl-center"
+        style="
+          padding: -1px;
+          padding-left: 5px;
+          padding-right: 7px;
+          margin: 0px;
+          background-color: rgb(245, 245, 245);
+          color: rgb(255, 255, 255);
+        "
+      >
+        <p
+          class="text-justify"
+          style="
+            width: auto;
+            height: auto;
+            margin: 14px;
+            color: rgb(33, 31, 31);
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 18px;
+            margin-top: 0px;
+            margin-bottom: -2px;
+          "
+        >
+          1. Ruang utama dapat memuat laptop hingga 16 inch<br />2. Ruang Utama
+          dengan penutup&nbsp;<br />3. Saku depan yang besar dan multifungsi<br />4.
+          Saku atas sekaligus sebagai penutup ruang utama<br />5. Saku samping
+          Kanan dan Kiri dengan karet<br /><br />
+        </p>
+      </div>
+      <div
+        class="container-fluid text-center d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center justify-content-lg-center justify-content-xl-center"
+        style="
+          padding: -1px;
+          padding-left: 5px;
+          padding-right: 7px;
+          margin: 0px;
+          background-color: rgb(245, 245, 245);
+          color: rgb(255, 255, 255);
+        "
+      >
+        <div
+          class="d-sm-flex justify-content-sm-center align-items-sm-center"
+          style="background-color: #ffffff"
+        >
+          <!-- <img
+            class="img-fluid"
+            src="assets/img/kuromi-detail8.jpg"
+            style="padding-top: 0; margin-bottom: 0px; margin-left: 0px"
+          /> -->
+        </div>
+      </div>
+      <div
+        class="container-fluid text-center d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center justify-content-lg-center justify-content-xl-center"
+        style="
+          padding: -1px;
+          padding-left: 5px;
+          padding-right: 7px;
+          margin: 0px;
+          background-color: rgb(255, 255, 255);
+          color: rgb(255, 255, 255);
+        "
+      >
+        <p
+          class="text-justify"
+          style="
+            width: auto;
+            height: auto;
+            margin: 14px;
+            color: rgb(33, 31, 31);
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 18px;
+            margin-top: 0px;
+            margin-bottom: -2px;
+          "
+        >
+          <br /><strong>SPESIFIKASI :</strong><br /><strong>✅</strong>Ukuran
+          43cm x 30cm x 15cm<br /><strong>✅</strong>Material Kanvas Tebal
+          D300<br />✅Bagian Dalam Dilapisi Kain Furing Tebal<br />✅Dapat
+          Dibersihkan Dengan Sikat Lembut Secara Merata<br /><br />
+        </p>
+      </div>
+      <!-- <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+      <div
+        class="container-fluid text-center d-flex d-sm-flex d-md-flex d-lg-flex d-xl-flex justify-content-center align-items-center justify-content-sm-center align-items-sm-center justify-content-md-center justify-content-lg-center justify-content-xl-center"
+        style="
+          height: 42px;
+          background-color: rgb(247, 161, 208);
+          color: rgb(18, 63, 152);
+        "
+      >
+        <h1
+          class="d-lg-flex justify-content-lg-center"
+          style="
+            font-size: 18px;
+            color: rgb(43, 55, 59);
+            font-family: Poppins;
+            margin-top: 8px;
+          "
+        >
+          PILIHAN WARNA
+        </h1>
+      </div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img
+          class="img-fluid"
+          src="assets/img/kuromi-katalog.jpg"
+          style="padding-top: 0; margin-bottom: 0px; margin-left: 0px"
+        />
+      </div> -->
+    <!-- </section>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <div></div>
+      </div>
+    </section>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <section style="margin-top: 0">
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <section style="margin-top: 0">
+      <section
+        class="text-center d-lg-flex d-xl-flex justify-content-lg-center"
+        style="
+          background-color: #ffffff;
+          font-family: Alef, sans-serif;
+          color: rgb(255, 255, 255);
+          padding-left: -5px;
+        "
+      ></section>
+    </section>
+    <section style="margin-top: 0">
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <section style="margin-top: 0"></section>
+    <section style="margin-top: 0">
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <section
+      class="text-left"
+      style="margin-top: 9px; background-color: #ffffff"
+    ></section>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <section style="margin-top: 0">
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <section>
+      <div id="to-anc"></div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <img class="img-fluid" src="assets/img/ragu.jpg" />
+      </div>
+    </section> -->
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+      <section
+        class="text-center d-xl-flex justify-content-xl-center"
+        style="background-color: #ffffff"
+      >
+        <div class="container text-center text-center" style="max-width: auto">
+          <div
+            class="row text-center d-lg-flex d-xl-flex justify-content-lg-center justify-content-xl-center"
+          >
+            <div
+              class="col-lg-10 text-center"
+              style="margin-bottom: 7px; background-color: #ffffff"
+            >
+              <h3
+                style="
+                  margin-top: 0px;
+                  line-height: 33px;
+                  margin-bottom: 8px;
+                  padding-top: 5px;
+                  padding-bottom: 5px;
+                  color: rgb(255, 255, 255);
+                  background-color: #2d3a66;
+                "
+              >
+                PROMO TERBATAS!!
+              </h3>
+              <h3 >&nbsp;Beli 1</strong>&nbsp; <br />
+
+              <h3
+                class="text-monospace"
+                style="
+                  margin-top: 0px;
+                  line-height: 18px;
+                  margin-bottom: 20px;
+                  color: rgb(247, 30, 30);
+                  height: 0px;
+                  font-size: 21px;
+                  font-family: Montserrat, sans-serif;
+                "
+              >
+                HARGA NORMAL
+                <span style="text-decoration: line-through">175.000</span><br />
+              </h3>
+              <h3
+                class="d-lg-flex justify-content-lg-center align-items-lg-center"
+                style="
+                  margin-top: 27px;
+                  margin-bottom: 21px;
+                  height: 11px;
+                  font-size: 28px;
+                "
+              >
+                <img
+                  class="img-fluid d-lg-flex"
+                  style="width: 26px; height: 20px"
+                  src="assets/img/arrow-red-12.gif"
+                /><strong>&nbsp;HARGA PROMO</strong>&nbsp;<img
+                  class="img-fluid d-lg-flex"
+                  style="width: 26px; height: 20px"
+                  src="assets/img/arrow-red-12.gif"
+                /><br />
+              </h3>
+              <h3
+                style="
+                  margin-top: 25px;
+                  line-height: 18px;
+                  margin-bottom: 6px;
+                  color: rgb(204, 122, 0);
+                  font-size: 48px;
+                  padding-top: 0px;
+                  font-family: 'Source Sans Pro', sans-serif;
+                  height: 17px;
+                "
+              >
+                <strong>Rp135.000</strong><br />
+              </h3>
+              <h3 style="margin-top: 23px;">&nbsp;Beli 2</strong>&nbsp; <br />
+
+                <h3
+                  class="text-monospace"
+                  style="
+                    margin-top: 0px;
+                    line-height: 18px;
+                    margin-bottom: 20px;
+                    color: rgb(247, 30, 30);
+                    height: 0px;
+                    font-size: 21px;
+                    font-family: Montserrat, sans-serif;
+                  "
+                >
+                  HARGA NORMAL
+                  <span style="text-decoration: line-through">350.000</span><br />
+                </h3>
+                <h3
+                  class="d-lg-flex justify-content-lg-center align-items-lg-center"
+                  style="
+                    margin-top: 27px;
+                    margin-bottom: 21px;
+                    height: 11px;
+                    font-size: 28px;
+                  "
+                >
+                  <img
+                    class="img-fluid d-lg-flex"
+                    style="width: 26px; height: 20px"
+                    src="assets/img/arrow-red-12.gif"
+                  /><strong>&nbsp;HARGA PROMO</strong>&nbsp;<img
+                    class="img-fluid d-lg-flex"
+                    style="width: 26px; height: 20px"
+                    src="assets/img/arrow-red-12.gif"
+                  /><br />
+                </h3>
+                <h3
+                  style="
+                    margin-top: 25px;
+                    line-height: 18px;
+                    margin-bottom: 6px;
+                    color: rgb(204, 122, 0);
+                    font-size: 48px;
+                    padding-top: 0px;
+                    font-family: 'Source Sans Pro', sans-serif;
+                    height: 17px;
+                  "
+                >
+                  <strong>Rp240.000</strong><br />
+                </h3>
+              <h1
+                class="text-center d-sm-flex justify-content-center align-items-center align-content-center justify-content-sm-center"
+                style="
+                  font-size: 14px;
+                  color: rgb(115, 107, 107);
+                  margin-bottom: 0px;
+                  margin-top: 18px;
+                "
+              ></h1>
+              <h1
+                class="text-center d-sm-flex justify-content-center align-items-center align-content-center justify-content-sm-center"
+                style="
+                  font-size: 24px;
+                  color: rgb(115, 107, 107);
+                  margin-bottom: 8px;
+                  margin-top: 10px;
+                "
+              >
+                Bonus botol dan jam tangan
+              </h1>
+              <h1
+                class="text-center d-sm-flex justify-content-center align-items-center align-content-center justify-content-sm-center"
+                style="
+                  font-size: 12px;
+                  color: rgb(255, 0, 0);
+                  margin-bottom: 0px;
+                  margin-top: 8px;
+                "
+              >
+                Klik Tombol di Bawah Untuk Pemesanan<br />
+              </h1>
+              <h1
+                class="text-center d-sm-flex justify-content-center align-items-center align-content-center justify-content-sm-center"
+                style="
+                  font-size: 12px;
+                  color: rgb(24, 24, 24);
+                  margin-bottom: -5px;
+                  margin-top: 4px;
+                "
+              >
+                Tombol akan terhubung ke Whatsapp
+              </h1>
+            </div>
+          </div>
+        </div>
+      </section>
+    </section>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <div
+      style="background-color: #707070; padding-top: 0px; margin-top: -5px"
+    ></div>
+    <section
+      class="text-center d-sm-flex justify-content-sm-center align-items-sm-center"
+      style="background-color: #ffffff"
+    ></section>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <div
+      class="d-sm-flex justify-content-sm-center align-items-sm-center"
+      style="background-color: #ffffff"
+    ></div>
+    <section>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      ></div>
+    </section>
+    <div class="text-center" style="background-color: #ffffff">
+      <img class="img-fluid" src="assets/img/arrow2.gif" style="height: 89px" />
+    </div>
+    <section style="background-color: #ffffff">
+      <div
+        class="d-sm-flex justify-content-sm-center align-items-sm-center"
+        style="background-color: #ffffff"
+      >
+        <section></section>
+      </div>
+      <div class="container">
+        <div class="col-lg-10 text-center mx-auto" style="margin-bottom: 15px">
+          <a
+            class="text-center"
+            id="atcwa1"
+            href="https://pesan.today/kuromibag"
+            ><img
+              class="img-fluid"
+              id="leadswa"
+              src="assets/img/5-2.gif"
+              style="width: 485px"
+          /></a>
+        </div>
+      </div>
+    </section>
+    <footer
+      class="footer text-center"
+      style="
+        padding-top: 19px;
+        background-color: rgb(255, 255, 255);
+        margin-top: 0px;
+        padding-bottom: 72px;
+        color: rgb(255, 255, 255);
+        height: 12px;
+      "
+    >
+      <div class="container" style="color: rgb(255, 255, 255)">
+        <p
+          class="text-dark mb-0 small"
+          style="
+            color: rgb(255, 255, 255);
+            opacity: 0.93;
+            height: 22px;
+            padding-top: 4px;
+            margin-top: -15px;
+          "
+        >
+          Copyright &nbsp;©pusatcodshop<br />2024<br />
+        </p>
+      </div>
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+      <a class="js-scroll-trigger scroll-to-top rounded" href="#page-top"
+        ><i class="fa fa-angle-up"></i
+      ></a>
+      <script>
+        $(document).ready(function () {
+          // Add smooth scrolling to all links
+          $("a").on("click", function (event) {
+            // Make sure this.hash has a value before overriding default behavior
+            if (this.hash !== "") {
+              // Prevent default anchor click behavior
+              event.preventDefault();
+
+              // Store hash
+              var hash = this.hash;
+
+              // Using jQuery's animate() method to add smooth page scroll
+              // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+              $("html, body").animate(
+                {
+                  scrollTop: $(hash).offset().top,
+                },
+                800,
+                function () {
+                  // Add hash (#) to URL when done scrolling (default click behavior)
+                  window.location.hash = hash;
+                }
+              );
+            } // End if
+          });
+        });
+      </script>
+      <script type="text/javascript">
+        var button1 = document.getElementById("atcwa1");
+        button1.addEventListener(
+          "click",
+          function () {
+            fbq("track", "Purchase");
+          },
+          false
+        );
+        var button2 = document.getElementById("leadswa");
+        button2.addEventListener(
+          "click",
+          function () {
+            fbq("track", "AddToWishlist");
+          },
+          false
+        );
+      </script>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"></script>
+    <script src="assets/js/script.min.js"></script>
+  </body>
+</html>
